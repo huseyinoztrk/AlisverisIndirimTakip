@@ -1,3 +1,3 @@
 # AlisverisIndirimTakip
-C# üzerinden indirim takip eden bir konsol uygulamasıdır.
+C# üzerinden indirim takip eden bir form uygulamasıdır.
 C# Console Application
